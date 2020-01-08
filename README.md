@@ -5,6 +5,8 @@ Using Matrix Factorization/Probabilistic Matrix Factorization to solve Recommend
 我使用的评价指标包括了均方根误差(RMSE)与绝对平均误差(MAE)，精确率Pre@K(i)与召回率Re@K(i)  
 ****
 ![Image text](https://github.com/stxupengyu/Matrix-Factorization-for-Recommendation/blob/master/img-folder/1.png)  
+![Image text](https://github.com/stxupengyu/Matrix-Factorization-for-Recommendation/blob/master/img-folder/2.png)  
+![Image text](https://github.com/stxupengyu/Matrix-Factorization-for-Recommendation/blob/master/img-folder/3.png)  
 ****
 I use R to implement three Matrix Factorization algorithms: Matrix Factorization (using momentum optimization algorithm) (MF), probability Matrix Factorization (using momentum optimization algorithm) (PMF) and probability Matrix Factorization (using random gradient descent optimization algorithm) (PMF-SGD)  
 I used three common datasets for recommendation systems: epinations, movies (100k), Netflix (1m)  
